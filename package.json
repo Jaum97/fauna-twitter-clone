@@ -1,0 +1,22 @@
+{
+  "name": "fauna-twitter-clone",
+  "version": "1.0.0",
+  "description": "twitter clone using nodeJS and faunadb",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaum97/fauna-twitter-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaum97/fauna-twitter-clone/issues"
+  },
+  "homepage": "https://github.com/Jaum97/fauna-twitter-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faunadb": "^3.0.1"
+  }
+}
